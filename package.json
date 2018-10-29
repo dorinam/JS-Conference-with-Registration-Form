@@ -1,0 +1,28 @@
+{
+  "name": "full-stack-conf",
+  "version": "1.0.0",
+  "description": "FUll Stack Javascript Conference",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "full-stack",
+    "javascript",
+    "html",
+    "css",
+    "bootstrap",
+    "website",
+    "frontend",
+    "development",
+    "programming"
+  ],
+  "author": "Dorina Mihai",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "lite-server": "^2.4.0"
+  }
+}
